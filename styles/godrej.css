@@ -30,7 +30,7 @@ body {
         top: 0;
         padding: 1.35em 0;
 
-        background: linear-gradient(to bottom, white, rgba(255, 255, 255, .92));
+        background: linear-gradient(to bottom, #1f2125, rgba(255, 255, 255, .92));
 
         .nav-brand .icon {
             filter: contrast(100);
