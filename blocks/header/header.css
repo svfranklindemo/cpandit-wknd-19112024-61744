@@ -236,7 +236,7 @@ header nav .nav-sections ul>li>a {
 header nav .nav-sections ul>li>a.active,
 header nav .nav-sections ul>li>a:hover {
   text-decoration: none;
-  background-color: var(--color-neutral-200);
+  background-color: var(--color-neutral-800);
 }
 
 @media (width >=900px) {
